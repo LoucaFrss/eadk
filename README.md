@@ -1,11 +1,2 @@
 # eadk
-
-## example
-
-```rust
-use eadk::prelude::*;
-#[eadk::main]
-fn main(_external_data: &[u8]) {
-    println!("Hello World!");
-}
-```
+eadk (External Application Developpement Kit) is a crate to create Numworks external applications.
