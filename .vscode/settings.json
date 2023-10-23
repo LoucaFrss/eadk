@@ -1,0 +1,7 @@
+{
+   "rust-analyzer.checkOnSave.allTargets": false,
+   "rust-analyzer.linkedProjects": [
+      ".\\eadk-macros\\Cargo.toml",
+      ".\\Cargo.toml"
+   ],
+}
