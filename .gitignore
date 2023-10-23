@@ -1,4 +1,2 @@
-/target
+/target/
 /Cargo.lock
-/eadk-macros/Cargo.lock
-/eadk-macros/target
